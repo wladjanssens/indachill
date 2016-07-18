@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+   <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- Leave those next 4 lines if you care about users using IE8 -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <title> In Da Chill Music </title>
+    <link rel="stylesheet" href="style.css"></link>
+    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+  </head>
+
+
+  <body>
+
+      <nav class="navbar navbar-default navbar-transparent navbar-fixed-top">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">In Da Chill Music</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    
+
+
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">PLAY</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+
+
+
+<div id="wrapper">
+
+<div class="spacer"></div>  
+<h1>In Da Chill Radio</h1>
+<h2>Listen to the best Deep-chill and House music all day long </h2>  
+
+<div class="spacing"></div>
+
+<div class="radionomy-player">
+<script>(function (win, doc, script, source, objectName) { (win.RadionomyPlayerObject = win.RadionomyPlayerObject || []).push(objectName); win[objectName] = win[objectName] || function (k, v) { (win[objectName].parameters = win[objectName].parameters || { src: source, version: '1.1' })[k] = v; }; var js, rjs = doc.getElementsByTagName(script)[0]; js = doc.createElement(script); js.async = 1; js.src = source; rjs.parentNode.insertBefore(js, rjs); }(window, document, 'script', 'https://www.radionomy.com/js/radionomy.player.js', 'radplayer'));
+radplayer('url', 'indachill');
+radplayer('type', 'mobile');
+radplayer('autoplay', '0');
+radplayer('volume', '50');
+radplayer('color1', '#0089cb');
+radplayer('color2', '#ffffff');
+</script></div>
+<div class="spacing"></div>
+<img class="arrowhover" src="images/down-arrow.png" width="75px" alt="arrow">
+
+</div>  
+
+<div class="spacings"></div>
+</div>
+<h4><div class="underline_text">In Da chill</div> Summer News</h4><br>
+<div class="spacings"></div>
+
+</section>
+
+<table>
+<tr>
+  <th><div class="row">
+    <div class="col-sm-3 col-md-2">
+      <div class="thumbnail">
+        <img class="imagetumb" src="images/wecandance2016.png" alt="wecandance">
+        <div class="caption">
+          <h3>Thumbnail label</h3>
+          <p>WECANDANCE is absolutely thrilled to take you to SPACE this year! On the fashion department, think sheer materials, sleek metal, see-through plastic with splashes of eye-blinding white and silver.</p>
+          <p><a href="#" class="btn btn-primary" role="button">Discover</a> 
+      </div>
+    </div>
+  </div></th>
+  <th><div class="row">
+    <div class="col-sm-3 col-md-2">
+      <div class="thumbnail">
+        <img class="imagetumb" src="images/tomorrowland2016.png" alt="tomorrowland">
+        <div class="caption">
+          <h3>Tomorrowland 2016</h3>
+          <p>Tomorrowland is one of the biggest electronic music festivals held in the world, taking place in Boom, Belgium. It used to be organized as a joint venture by the original founders together with ID&T.[1] The festival takes place in the town of Boom, 16 kilometers south of Antwerp, 32 kilometers...</p>
+          <p><a href="#" class="btn btn-primary" role="button">Discover</a> 
+        </div>
+      </div>
+    </div>
+  </div></th>
+  <th><div class="row">
+    <div class="col-sm-3 col-md-2">
+      <div class="thumbnail">
+        <img class="imagetumb" src="images/solee.jpg" alt="solee">
+        <div class="caption">
+          <h3>Thumbnail label</h3>
+          <p>kicking off his career in the music business over a decade ago working at a vinyl distributor, stuttgart's normen flaskamp began producing back in 1999 and was releasing records under various guises on different labels soon after - but it was in 2006 that his solee alias was born, propelling him to new heights in the house and techno realm.</p>
+          <p><a href="#" class="btn btn-primary" role="button">Discover</a> 
+        </div>
+      </div>
+    </div>
+  </div></th>
+</tr> 
+</table>
+
+<div class="spacing"></div>
+
+    <div id="footer">
+    <div class="row">
+    <div class="col-xs-6">
+      <ul list="in-line" class="social">
+      <a href="http://www.facebook.com/indachill"><i class="fa fa-facebook"></i></a>
+      <a href="http://www.facebook.com/indachill"><i class="fa fa-youtube"></i></a>
+      </ul>
+    </div>
+     <div class="col-xs-6"><p>copyright - Dj boulette in da mix</p>
+  </div>
+    </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+
+  </body>
+  </html>
